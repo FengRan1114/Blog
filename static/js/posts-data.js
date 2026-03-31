@@ -21,13 +21,13 @@ const posts = [
   {
     id: 1,
     file: "posts/post-1.html",
-    title: "技术与边界，我们选择用它做什么",
+    title: "三思而后语",
     tag: "思考",
-    date: "2025-03-28",
-    excerpt: "每一次和 AI 的深度交流之后，我都觉得这个问题更复杂了。技术本身是中性的，但人心不是。",
-    readTime: "约 4 分钟",
+    date: "2025-03-31",
+    excerpt: "沉默比说错好，纯粹比深思熟虑好",
+    readTime: "约 1分钟",
     cover: "",
-    emoji: "◈"
+    emoji: "🤔"
   },
   {
     id: 2,
