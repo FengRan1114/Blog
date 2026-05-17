@@ -16,18 +16,16 @@
  *  cover     — 封面图路径（相对于 index.html），留空则显示 emoji 占位
  *  emoji     — 封面无图时的占位符号
  */
-
 const posts = [
   {
     id: 1,
     file: "posts/post-1.html",
-    title: "测试",
-    tag: "思考",
-    date: "2025-03-31",
-    excerpt: "测试",
-    readTime: "约 1分钟",
+    title: "测试 · Pan Feng",
+    tag: "日常",
+    date: "2025-03-25",
+    excerpt: "测试 · Pan Feng。",
+    readTime: "约 2分钟",
     cover: "",
-    emoji: "🤔"
-  },
-  
+    emoji: "⌘"
+  }
 ];
